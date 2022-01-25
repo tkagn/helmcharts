@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  odf-operator:
+  - apiVersion: v2
+    created: "2022-01-25T13:39:22.701587635-05:00"
+    description: A Helm chart for the OpenShift Data Foundation (ODF) operator
+    digest: 393f24e6d8ef77b0276931c07da8eede944d1e8c748164241cb78467a90603f3
+    name: odf-operator
+    urls:
+    - https://github.com/tkagn/helmcharts/odf-operator-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-01-25T13:39:22.701216433-05:00"
