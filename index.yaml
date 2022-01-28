@@ -3,21 +3,21 @@ entries:
   ocs-operator:
   - apiVersion: v2
     appVersion: "4.8"
-    created: "2022-01-26T17:03:33.1814613-05:00"
+    created: "2022-01-27T19:43:17.219943498-05:00"
     description: A Helm chart for the OpenShift Container Storage (OCS) operator
-    digest: e2fb659039d0fc2d078da32eae55f6ac2e4b1156fd9c993195bb17a996e94101
+    digest: ca97d96eae3e182d7eb263838ea32349c75f4ff43d6de69fde56e27ca14a09f6
     name: ocs-operator
     urls:
-    - https://tkagn.github.io/helmcharts/ocs-operator-0.2.0.tgz
+    - https://github.com/tkagn/helmcharts/ocs-operator-0.2.0.tgz
     version: 0.2.0
   odf-operator:
   - apiVersion: v2
     appVersion: "4.9"
-    created: "2022-01-26T17:03:33.182445692-05:00"
+    created: "2022-01-27T19:43:17.220207184-05:00"
     description: A Helm chart for the OpenShift Data Foundation (ODF) operator
-    digest: c3a2a463e7afcaf89e49861fc86ec8e83e7ea983708be2918074543a92773531
+    digest: 4f736ef00aee06bd730547436ae2ec46d0719654f453bc5e34da24971f561015
     name: odf-operator
     urls:
-    - https://tkagn.github.io/helmcharts/odf-operator-0.2.0.tgz
+    - https://github.com/tkagn/helmcharts/odf-operator-0.2.0.tgz
     version: 0.2.0
-generated: "2022-01-26T17:03:33.180881915-05:00"
+generated: "2022-01-27T19:43:17.21949118-05:00"
